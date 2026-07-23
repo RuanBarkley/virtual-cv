@@ -70,5 +70,6 @@ profile-image {
     border-radius: 50%;
     display: block;
     margin: 20px auto;
+    align-items: center;
 
 }
